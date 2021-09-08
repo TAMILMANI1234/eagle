@@ -1,0 +1,30 @@
+h1{
+    font-family: poppins;
+    font-weight: bold;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 15px;
+  }
+  .final input{
+    height: 45px;
+    width: 55%;
+    border: 2px solid white;
+    outline:none;
+    background: black;
+    color: white;
+    font-weight: 600;
+    margin-top: 20px;
+}
+.final{
+  background-color: black;
+  color: white;
+}
+.btn2{
+height: 45px;
+width: 100px;
+background: white;
+margin-left: -10px;
+border: 2px solid white;
+font-weight: 600;
+}
